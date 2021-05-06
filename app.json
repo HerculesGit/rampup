@@ -1,0 +1,12 @@
+{
+  "name": "rampup",
+  "displayName": "rampup",
+  "expo": {
+    "name": "rampup",
+    "slug": "rampup",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
